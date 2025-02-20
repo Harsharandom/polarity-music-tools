@@ -6,7 +6,7 @@
  * @author Polarity
  */
 
-loadAPI(17)
+loadAPI(16)
 host.setShouldFailOnDeprecatedUse(true)
 host.defineController('Polarity', 'Scale Maker', '0.1', 'b3f52fc6-e887-4bb6-927a-57b11a60e087', 'Polarity')
 
